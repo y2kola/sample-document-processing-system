@@ -255,17 +255,6 @@ The application is designed for AWS deployment:
 
 Docker support can be added with a standard .NET 8 Dockerfile.
 
-## 📸 Screenshots
-
-### Home/Upload Page
-![Main interface showing document upload and list](screenshots/home.png)
-
-### Document Processing
-![Document being processed with status updates](screenshots/processing.png)
-
-### Document Summary View
-![AI-generated document summary display](screenshots/summary.png)
-
 ## 🆘 Troubleshooting
 
 ### Database Connection Issues
